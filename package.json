@@ -1,5 +1,5 @@
 {
-  "name": "com.boxqkrtm.ide.trae",
+  "name": "com.unity.ide.trae",
   "displayName": "Trae Editor",
   "description": "Trae editor integration for supporting Trae as code editor for unity. Adds support for generating csproj files for intellisense purposes, auto discovery of installations, etc.",
   "version": "2.0.28",
